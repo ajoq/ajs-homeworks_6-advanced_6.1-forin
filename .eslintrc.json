@@ -6,10 +6,13 @@
        "jest": true
     },
     "rules": {
-      "no-restricted-syntax": [
-        "error",
-        "LabeledStatement",
-        "WithStatement"
-      ]
-    }
+        "no-restricted-syntax": [
+          "error",
+          "LabeledStatement",
+          "WithStatement"
+        ],
+        "import/no-named-as-default": 0,
+        "import/no-named-as-default-member": 0,
+        "guard-for-in" : 0
+      }
   }

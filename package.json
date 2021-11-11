@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajoq/ajs-homeworks_6-advanced_5.1-6.1-forin.git"
+    "url": "git+https://github.com/ajoq/ajs-homeworks_6-advanced_6.1-forin.git"
   },
   "author": "Konstantin Beloglazov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ajoq/ajs-homeworks_6-advanced_5.1-6.1-forin/issues"
+    "url": "https://github.com/ajoq/ajs-homeworks_6-advanced_6.1-forin/issues"
   },
-  "homepage": "https://github.com/ajoq/ajs-homeworks_6-advanced_5.1-6.1-forin#readme",
+  "homepage": "https://github.com/ajoq/ajs-homeworks_6-advanced_6.1-forin#readme",
   "devDependencies": {
     "@babel/cli": "^7.15.7",
     "@babel/core": "^7.15.8",
